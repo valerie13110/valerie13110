@@ -1,4 +1,6 @@
-### Hi there, I'm Valeria Oparina 👋
+### Hi there 👋
+
+### My name is Valeria Oparina, I'm a Data Analyst
 
 I like to explore patterns and connections in different fields, be it work or hobby. I like to dive deep into the topic, understand the essence of the processes, and also look for the best ways to solve problems.
 
