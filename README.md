@@ -13,4 +13,4 @@ Python, Pandas, Numpy, Matplotlib, Seaborn, Plotly, Statsmodels, Scipy
 SQL, PostgreSQL
 
 ###### Other Tools:
-Jupyter Notebook, Tableau
+Excel, Jupyter Notebook, Tableau, Power BI
